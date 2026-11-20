@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/BroadbentT/RAM-MASTER/blob/main/picture1.png">
-</p>
-
 ## WINDOWS FORENSIC EDITION
 
 **INSTALLATION INSTRUCTIONS**
