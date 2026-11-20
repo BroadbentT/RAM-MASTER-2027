@@ -1,7 +1,7 @@
 # RAM MASTER – Windows Memory Forensics
 
 <p align="center">
-  <img src="RAM-MASTER-Banner.png" alt="RAM MASTER – Windows Memory Forensics" width="100%">
+  <img src="https://github.com/BroadbentT/RAM-MASTER/blob/main/Windows%20Memory%20Forensics.png" alt="RAM MASTER – Windows Memory Forensics" width="100%">
 </p>
 
 <p align="center">
