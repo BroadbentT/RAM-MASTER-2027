@@ -1,14 +1,10 @@
-# RAM MASTER – Windows Memory Forensics
+# RAM MASTER - Windows Memory Forensics
+
+**ALPHA RELEASE |RAM MASTER - Python 3 Windows Memory Forensics Command Centre**
 
 <p align="center">
   <img src="https://github.com/BroadbentT/RAM-MASTER/blob/main/Windows%20Memory%20Forensics.png" alt="RAM MASTER – Windows Memory Forensics" width="100%">
 </p>
-
-<p align="center">
-  **RAM MASTER (ALPHA) – Python 3 Windows Memory Forensics Command Centre**
-</p>
-
----
 
 ## INSTALLATION
 
